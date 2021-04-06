@@ -24,7 +24,7 @@ Description: This package contains functions to define a network with source ver
     It was initially created to simulate vaccine centre as a graph and then calculate the human flow through the centre.
     Additionaly, it contains functions to test the settings beforehand. 
     Check the expected throughput and highlight the weak spots.
-License: GPL-3 + file LICENSE
+License: GPL-3
 Imports: magrittr, dplyr, plotly, purrr, rlang
 Suggests: 
 Encoding: UTF-8
