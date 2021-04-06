@@ -20,9 +20,9 @@ Author@R: c(person(given = "Tomas",
                    comment = c(ORCID = "0000-0002-2953-1628")))
 Maintainer: Tomas Martinovic <tomas.martinovic@vsb.cz>
 Description: This package contains functions to define a network with source vertice, intermediary vertices, and exit vertice.
-    You can simulate flow throught this network where edges determine the time of the traversal from one vertice to next one.
+    You can simulate flow through this network where edges determine the time of the traversal from one vertice to next one.
     It was initially created to simulate vaccine centre as a graph and then calculate the human flow through the centre.
-    Additionaly, it contains functions to test the settings beforehand. 
+    Additionally, it contains functions to test the settings beforehand. 
     Check the expected throughput and highlight the weak spots.
 License: GPL-3
 Imports: magrittr, dplyr, plotly, purrr, rlang
