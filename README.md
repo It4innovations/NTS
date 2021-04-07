@@ -9,12 +9,12 @@ Check the expected throughput and highlight the weak spots.
 
 You can install this package using `devtools` package:
 ```
-devtools::install_git("https://code.it4i.cz/ADAS/wireless-pd-detection")
+devtools::install_github("It4innovations/NTS")
 ```
 or `remotes` package:
 
 ```
-remotes::install_git("https://code.it4i.cz/ADAS/wireless-pd-detection")
+remotes::install_github("It4innovations/NTS")
 ```
 
 # Acknowledgment
